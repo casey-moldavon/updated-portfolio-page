@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    margin: 0;
+
+    background-color: white;
+}
+
+.container {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    background-color: white;
+    color: crimson;
+
+    width: 60vw;
+    /* height: 750px; */
+    height: 82%;
+
+    border: solid white;
+    border-width: 7px 7px 7px 7px;
+    border-radius: 42px;
+    /* box-shadow: 2px black; */
+    box-shadow: 0px 0px 25px 0px gray;
+
+    position: absolute;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* .col {
+    flex: 1;
+    text-align: center;
+} */
