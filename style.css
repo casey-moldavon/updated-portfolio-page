@@ -68,7 +68,7 @@ body {
 
             #about-text {
                 text-align: center;
-                font-size: 20px;
+                font-size: 18px;
                 font-family: Verdana, sans-serif;
                 margin-bottom: 0;
             }
@@ -147,7 +147,7 @@ body {
         #projects {
             color: #285570;
             text-align: center;
-            font-size: 20px;
+            font-size: 18px;
             font-family: Verdana, sans-serif;
             font-weight: bold;
             margin: 0;
