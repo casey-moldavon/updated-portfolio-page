@@ -21,11 +21,11 @@ body {
     .container-non-materialize {
         margin-top: 20px;
         margin-bottom: 50px;
-        margin-left: 18%;
-        margin-right: 18%;
+        margin-left: 16%;
+        margin-right: 16%;
         background-color: white;
         color: #285570;
-        width: 60vw;
+        width: 65vw;
         height: 670px;
         border: solid white;
         border-width: 7px 7px 7px 7px;
